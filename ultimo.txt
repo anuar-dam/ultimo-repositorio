@@ -1,1 +1,4 @@
-lskldj hola
+<<<<<<< HEAD
+=======
+ajljlk jlhola
+>>>>>>> nuevarama
